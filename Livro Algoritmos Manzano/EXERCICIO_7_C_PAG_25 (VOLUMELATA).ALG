@@ -1,22 +1,22 @@
 Algoritmo "VolumeLata"
-// Disciplina   : [Linguagem e Lógica de Programação]
-// Professor   : Antonio Carlos Nicolodi 
-// Descrição   : Aqui você descreve o que o programa faz! (função)
-// Autor(a)    : Nome do(a) aluno(a)
+// Disciplina   : [Linguagem e LÃ³gica de ProgramaÃ§Ã£o]
+// Professor   : Jailson Costa dos Santos
+// DescriÃ§Ã£o   : Aqui vocÃª descreve o que o programa faz! (funÃ§Ã£o)
+// Autor(a)    : Guilherme Freitas dos Santos
 // Data atual  : 18/03/2024
 Var
-// Seção de Declarações das variáveis 
+// SeÃ§Ã£o de DeclaraÃ§Ãµes das variÃ¡veis 
 raio:real
 altura:real
 volume:real
 
 Inicio
-// Seção de Comandos, procedimento, funções, operadores, etc... 
+// SeÃ§Ã£o de Comandos, procedimento, funÃ§Ãµes, operadores, etc... 
 escreval("Insira o calor do raio:")
 leia(raio)
 escreval("Insira o calor do raio:")
 leia(altura)
 volume <- 3.14 * raio ^ 2 * altura
-escreval("O volume da lata é de", volume, "L")
+escreval("O volume da lata Ã© de", volume, "L")
 
 Fimalgoritmo
