@@ -1,8 +1,8 @@
-Algoritmo "EXERCICIO_4_J_PAG_41 (VERIFICA SE ESTÁ ENTRE a FAIXA DOS NUMEROS 1 E 9)"
-// Disciplina   : [Lógica de Programação com JavaScript]
+Algoritmo "EXERCICIO_4_J_PAG_41 (VERIFICA SE ESTÃ ENTRE a FAIXA DOS NUMEROS 1 E 9)"
+// Disciplina   : [LÃ³gica de ProgramaÃ§Ã£o com JavaScript]
 // Professor   : Jailson Costa dos Santos 
-// Descrição   : Recebe o numero e retorna se ele está entre 1 e 9
-// Autor(a)    : Nome do(a) aluno(a)
+// DescriÃ§Ã£o   : Recebe o numero e retorna se ele estÃ¡ entre 1 e 9
+// Autor(a)    : Guilherme Freitas dos Santos
 // Data atual  : 17/04/2024
 Var
    numero:inteiro
@@ -12,7 +12,7 @@ Inicio
 
    limpatela
 
-   se (numero >= 1) e (numero <= 9) então
+   se (numero >= 1) e (numero <= 9) entÃ£o
 
       Escreva("O valor esta na faixa permitida")
    senao
