@@ -1,23 +1,23 @@
 Algoritmo "mediaAritimeticaSimples"
-// Disciplina   : [Lógica de Programação com JavaScript]
+// Disciplina   : [LÃ³gica de ProgramaÃ§Ã£o com JavaScript]
 // Professor   : Jailson 
-// Descrição   : Aqui você descreve o que o programa faz! (função)
-// Autor(a)    : Nome do(a) aluno(a)
+// DescriÃ§Ã£o   : Aqui vocÃª descreve o que o programa faz! (funÃ§Ã£o)
+// Autor(a)    : Guilherme Freitas dos Santos
 // Data atual  : 25/03/2024
 Var
-// Seção de Declarações das variáveis 
+// SeÃ§Ã£o de DeclaraÃ§Ãµes das variÃ¡veis 
 nota1, nota2, mediaASimples:real
 
 Inicio
-// Seção de Comandos, procedimento, funções, operadores, etc... 
-escreval("Digite a nota da primeira Avaliação :")
+// SeÃ§Ã£o de Comandos, procedimento, funÃ§Ãµes, operadores, etc... 
+escreval("Digite a nota da primeira AvaliaÃ§Ã£o :")
 leia(nota1)
-escreval("Digite a nota da segunda Avaliação :")
+escreval("Digite a nota da segunda AvaliaÃ§Ã£o :")
 leia(nota2)
 mediaAsimples <- (nota1 + nota2) / 2
 se mediaAsimples >= 6 entao
 escreval("Aluno Aprovado!")
-senão entao
+senÃ£o entao
 escreval("Aluno Reprovado!")
 fimse
 escreval("A media do aluno e de:", mediaAsimples)
