@@ -1,8 +1,8 @@
 Algoritmo "EXERCICIO_4_H_PAG_41 (IMPRIME O MAIOR E O MENOR)"
-// Disciplina   : [Lógica de Programação com JavaScript]
+// Disciplina   : [LÃ³gica de ProgramaÃ§Ã£o com JavaScript]
 // Professor   : Jailson Costa dos Santos 
-// Descrição   : Recebe 5 numeros inteiros e imprime o maior e menor
-// Autor(a)    : Nome do(a) aluno(a)
+// DescriÃ§Ã£o   : Recebe 5 numeros inteiros e imprime o maior e menor
+// Autor(a)    : Guilherme Freitas dos Santos
 // Data atual  : 04/04/2024
 Var
    numero1, numero2, numero3, numero4, numero5:inteiro
@@ -51,7 +51,7 @@ Inicio
       maior <- numero5
    fimse
 
-   Escreval("O maior numero é:",maior)
-   Escreval("O menor numero é:",menor)
+   Escreval("O maior numero Ã©:",maior)
+   Escreval("O menor numero Ã©:",menor)
    
 Fimalgoritmo
