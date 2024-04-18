@@ -1,8 +1,8 @@
 Algoritmo "EXERCICIO_4_I_PAG_41 (PAR OU IMPAR)"
-// Disciplina   : [Lógica de Programação com JavaScript]
+// Disciplina   : [LÃ³gica de ProgramaÃ§Ã£o com JavaScript]
 // Professor   : Jailson Costa dos Santos 
-// Descrição   : Recebe um numero inteiro e verifica se é par ou impar
-// Autor(a)    : Nome do(a) aluno(a)
+// DescriÃ§Ã£o   : Recebe um numero inteiro e verifica se Ã© par ou impar
+// Autor(a)    : Guilherme Freitas dos Santos
 // Data atual  : 04/04/2024
 Var
    numero:inteiro
@@ -13,9 +13,9 @@ Inicio
    limpatela
 
    se numero % 2 = 0 entao
-      Escreva("O numero digitado é Par")
+      Escreva("O numero digitado Ã© Par")
    senao
-      Escreva("O numero digitado é Impar")
+      Escreva("O numero digitado Ã© Impar")
    fimse
 
 Fimalgoritmo
